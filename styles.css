@@ -1,0 +1,66 @@
+* {
+  font-family: sans-serif;
+  line-height: 2;
+}
+
+body {
+  background-color:lightgrey;
+}
+
+header {
+  text-align: center;
+  position: relative;
+  top: 15;
+}
+
+#subtitle {
+  position: relative;
+  top: -30;
+}
+
+.section-image {
+  background-color: white;
+}
+
+figure { 
+  padding: 20px;
+}
+
+figcaption {
+  margin-left: auto;
+  text-align: center;
+  padding-top: 10px;
+}
+
+#image { 
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#tribute-info {
+  text-align: center;
+  position: relative;
+  top: 50
+}
+
+#quote {
+  position: relative;
+  top: 50;
+}
+
+.centered-list {
+  list-style-position: inside;
+  text-align: center;
+}
+
+#wiki {
+  position: relative;
+  top: 80;
+  padding-bottom: 50px;
+}
+
+a {
+  color: black;
+}
